@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./serieschronolog00vatigoog_0109.png"; bbox 0 0 3525 5454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 399 4591 2947 4898">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 399 4591 2947 4898">
+     <span class='ocr_line' id='line_1_1' title="bbox 399 4591 2947 4898; baseline -0.008 -66"><span class='ocrx_word' id='word_1_1' title='bbox 399 4610 1012 4892; x_wconf 61' lang='grc' dir='ltr'>αέῗζόεεΡΗ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1076 4591 2087 4898; x_wconf 54' lang='lat' dir='ltr'>⁸2·=;‘›{›·ssEmunws</span> <span class='ocrx_word' id='word_1_3' title='bbox 2061 4650 2947 4897; x_wconf 36' lang='lat' dir='ltr'>amomon&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 651 4911 2725 4993">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 651 4911 2725 4993">
+     <span class='ocr_line' id='line_1_2' title="bbox 651 4911 2725 4993; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 651 4912 790 4993; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_5' title='bbox 905 4911 1343 4993; x_wconf 87' lang='lat' dir='ltr'>CUSTOS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1466 4911 2109 4993; x_wconf 81' lang='lat' dir='ltr'>BIBLlOTECAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 2199 4911 2725 4993; x_wconf 77' lang='lat' dir='ltr'><strong>VATICANE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
